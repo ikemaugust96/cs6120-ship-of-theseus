@@ -223,3 +223,10 @@ data/raw/*
 
 data/processed/*
 !data/processed/.gitkeep
+
+# Local per-text scores and resumable checkpoints
+experiments/lexical_baseline_v1/*_pair_scores.csv
+experiments/bertscore_roberta_large_L17_v1/*/*.csv
+experiments/style_features_spacy_v1/*/*.csv
+experiments/style_features_spacy_v1/style_pair_deltas.csv
+experiments/**/*.tmp

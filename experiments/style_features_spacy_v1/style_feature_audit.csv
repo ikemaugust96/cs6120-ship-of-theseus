@@ -1,0 +1,8 @@
+domain,texts,versions,zero_token_texts,single_sentence_texts
+cmv,19734,22,0,452
+eli5,49918,22,0,3167
+sci_gen,28336,22,0,855
+tldr,44286,22,0,2466
+wp,23210,22,0,428
+xsum,52954,22,0,2964
+yelp,57068,22,0,2552

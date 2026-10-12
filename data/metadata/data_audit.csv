@@ -1,0 +1,8 @@
+domain,rows,original_rows,sources,versions,empty_texts,duplicate_rows
+cmv,35405,1626,7,22,1,0
+eli5,69270,3160,7,22,1,0
+sci_gen,60166,2797,7,22,1,0
+tldr,53519,2444,7,22,2,0
+wp,58417,2768,7,22,2,0
+xsum,70388,3227,7,22,2,0
+yelp,72847,3320,7,22,1,0

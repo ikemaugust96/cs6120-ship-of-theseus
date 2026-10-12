@@ -1,0 +1,8 @@
+configuration,paraphraser,setting
+chatgpt,ChatGPT,default
+palm,PaLM,default
+pegasus(full),Pegasus,full
+pegasus(slight),Pegasus,slight
+dipper,DIPPER,default
+dipper(low),DIPPER,low
+dipper(high),DIPPER,high
