@@ -1,0 +1,13 @@
+domain,source,key,version_name,matches_raw_csv
+tldr,BigScience,tldr-391,original,True
+tldr,BigScience,tldr-391,dipper(high),True
+tldr,BigScience,tldr-391,dipper(high)_dipper(high),True
+tldr,BigScience,tldr-391,dipper(high)_dipper(high)_dipper(high),True
+tldr,Eleuther-AI,tldr-5373,original,True
+tldr,Eleuther-AI,tldr-5373,dipper(high),True
+tldr,Eleuther-AI,tldr-5373,dipper(high)_dipper(high),True
+tldr,Eleuther-AI,tldr-5373,dipper(high)_dipper(high)_dipper(high),True
+eli5,Human,eli5-581,original,True
+eli5,Human,eli5-581,dipper(high),True
+eli5,Human,eli5-581,dipper(high)_dipper(high),True
+eli5,Human,eli5-581,dipper(high)_dipper(high)_dipper(high),True

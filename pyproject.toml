@@ -10,6 +10,7 @@ dependencies = [
     "rouge-score>=0.1.2",
     "sacrebleu>=2.6.0",
     "seaborn>=0.13.2",
+    "sentence-transformers>=6.1.0",
     "spacy>=3.8.16",
     "tqdm>=4.70.1",
 ]
