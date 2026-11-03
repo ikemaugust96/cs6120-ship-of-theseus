@@ -1,0 +1,10 @@
+{
+  "seed": 6120,
+  "configuration": "dipper(high)",
+  "sample_frame": "data/metadata/shared_sample_manifest.csv",
+  "originals_in_frame": 16659,
+  "chains_per_domain": 5,
+  "n_chains": 35,
+  "selection": "uniform without replacement within domain",
+  "selection_uses_similarity_scores": false
+}

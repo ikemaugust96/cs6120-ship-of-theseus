@@ -1,0 +1,19 @@
+{
+  "seed": 6120,
+  "bootstrap_replicates": 2000,
+  "test_originals": 1711,
+  "test_document_groups": 444,
+  "reference_strata": [
+    "domain",
+    "source"
+  ],
+  "reference_population": "training originals in matched semantic sample",
+  "max_unique_reference_pairs_per_stratum": 5000,
+  "primary_reference": "median distance between distinct training originals",
+  "sensitivity_reference": "mean distance between distinct training originals",
+  "style_proxy": "17-category POS total variation",
+  "semantic_proxy": "1 minus cached SBERT cosine",
+  "bootstrap": "paired document groups within domains",
+  "reference_uncertainty": "not included; intervals condition on references",
+  "multiple_comparison_adjustment": false
+}

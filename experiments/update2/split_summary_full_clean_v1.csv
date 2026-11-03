@@ -1,0 +1,4 @@
+split,document_groups,all_source_originals,human_originals
+train,2092,11620,1637
+validation,447,2496,359
+test,455,2543,355
